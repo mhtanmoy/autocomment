@@ -8,4 +8,4 @@ time.sleep(5)
 for i in range(10):
     pyautogui.typewrite(comment[1%7])
     pyautogui.typewrite("\n")
-    time.sleep(2)
+    time.sleep(6)
